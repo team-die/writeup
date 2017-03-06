@@ -1,2 +1,2 @@
-# ctf writeups of team die
-ctf writeups of team die, contains all the work members have done
+# ctf writeups of team D.I.E
+ctf writeups of team D.I.E, contains all the work members have done
